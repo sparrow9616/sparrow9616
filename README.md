@@ -16,7 +16,7 @@
 - 💡 Always learning and experimenting with new tech
 
 <p align="center">
-  <img src="https://komarev.com/ghpvs/?username=sparrow9616&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sparrow9616&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
